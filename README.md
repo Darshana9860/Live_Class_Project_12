@@ -2,6 +2,8 @@
 
 Technologies used : HTML and CSS
 
+Deployed Link : [Business Landing Page](https://flourishing-longma-e84522.netlify.app/)
+
 Time taken to complete : 8.5 hours
 
 ![Screenshot (208)](https://user-images.githubusercontent.com/82273693/189126578-542dad6f-a559-413a-bde5-88fd03334cd9.png)
